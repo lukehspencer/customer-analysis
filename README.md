@@ -11,7 +11,7 @@ Which customer segments are most valuable, which are at risk of churning, and ho
 
 | File | Description |
 |---|---|
-| `decision_memo.docx` | 1-page decision memo — bottom line, findings, and recommendation for a fictional retention marketing stakeholder |
+| `decision_memo.pdf` | 1-page decision memo — bottom line, findings, and recommendation for a fictional retention marketing stakeholder |
 | `customer_segmentation_analysis.ipynb` | Full analysis notebook — data cleaning, EDA, RFM scoring, segmentation, and summary charts |
 
 ## Summary
@@ -22,7 +22,7 @@ Using RFM (Recency, Frequency, Monetary) analysis on 12 months of transaction da
 
 **Recommendation:** Prioritize a win-back campaign for At Risk customers, protect Champions with light-touch loyalty perks, apply low-cost nurture to Needs Attention and New Customers, and deprioritize retention spend on Hibernating customers.
 
-Full reasoning and caveats are in `decision_memo.docx`.
+Full reasoning and caveats are in `decision_memo.pdf`.
 
 ## Data Source
 
