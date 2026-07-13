@@ -1,8 +1,5 @@
 # Customer Segmentation & Retention Priority Analysis
 
-**Scout AI — Data Scientist Intern Take-Home Assessment**
-Submitted by Luke
-
 ## Business Question
 
 Which customer segments are most valuable, which are at risk of churning, and how should retention budget be allocated across them?
